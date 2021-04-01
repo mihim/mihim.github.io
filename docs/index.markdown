@@ -14,6 +14,8 @@ The questionnaire will guide you through the whole process.
 It will give you an introduction, ask for your opinion and show you the tasks that have to be completed.
 If you want to stop the trial, you can do so at any time without giving any reasons.
 
+Please open the link and follow the instructions:
+
 ## What can you expect?
 
 You will solve small tasks with the help of a 3D tool, called [annotate.photo](http://annotate.photo/){:target="_blank"}, that do not take long.
@@ -32,3 +34,5 @@ The files ending with '_2' are smaller files of the normal ones.
 
 * Duration: max. 1 hour
 * Requirements: none
+
+If you have any questions regarding the test, please feel free to contact me via email.
