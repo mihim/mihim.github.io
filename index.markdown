@@ -30,6 +30,12 @@ These point clouds will contain the scenes where the objects that need to be cla
 This may take some time and memory as they can be up to 100MB in size.
 The files ending with '_2' are smaller files of the normal ones.  
 
+## After the test
+
+When you have finished all tasks, save the labeled point clouds as a **JSON** file by pressing **Ctrl + S**.
+As filename, please enter your user test code that you have been assigned. It looks like this, for example: *xy_00*.
+Please upload them under [this link](https://drive.google.com/drive/folders/1b-v4cJIoSojXPliPwbi8spnuRoTbS_la?usp=sharing){:target="_blank"}
+
 ## Information on user study
 
 * Duration: max. 1 hour
