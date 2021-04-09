@@ -28,7 +28,9 @@ The whole test does not exceed the duration of one hour.
 Before you start the experiment, we ask you to download some point clouds [here](https://drive.google.com/drive/folders/1e2Svnzeb38rXFrsM0XdQVqG0CwKrxDRw?usp=sharing){:target="_blank"}.
 These point clouds will contain the scenes where the objects that need to be classified are located.
 This may take some time and memory as they can be up to 100MB in size.
-The files ending with '_2' are smaller files of the normal ones.  
+The files ending with '_2' are smaller files of the normal ones.
+
+Please use **Chrome** for the test.
 
 ## After the test
 
